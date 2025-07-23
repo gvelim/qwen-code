@@ -1,6 +1,7 @@
 {
   "name": "@qwen-code/qwen-code",
   "version": "0.0.1-alpha.8",
+  "private": true,
   "engines": {
     "node": ">=20"
   },
